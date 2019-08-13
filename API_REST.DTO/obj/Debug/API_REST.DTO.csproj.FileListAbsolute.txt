@@ -1,0 +1,8 @@
+c:\Users\agibiz\documents\visual studio 2013\Projects\API_REST.DTO\bin\Debug\API_REST.DTO.dll
+c:\Users\agibiz\documents\visual studio 2013\Projects\API_REST.DTO\bin\Debug\API_REST.DTO.pdb
+c:\Users\agibiz\documents\visual studio 2013\Projects\API_REST.DTO\obj\Debug\API_REST.DTO.dll
+c:\Users\agibiz\documents\visual studio 2013\Projects\API_REST.DTO\obj\Debug\API_REST.DTO.pdb
+C:\Users\agibiz\Documents\Visual Studio 2013\Projects\PRUEBAS\API_REST.DTO\bin\Debug\API_REST.DTO.dll
+C:\Users\agibiz\Documents\Visual Studio 2013\Projects\PRUEBAS\API_REST.DTO\bin\Debug\API_REST.DTO.pdb
+C:\Users\agibiz\Documents\Visual Studio 2013\Projects\PRUEBAS\API_REST.DTO\obj\Debug\API_REST.DTO.dll
+C:\Users\agibiz\Documents\Visual Studio 2013\Projects\PRUEBAS\API_REST.DTO\obj\Debug\API_REST.DTO.pdb
